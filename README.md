@@ -1,5 +1,7 @@
 # **TideTracker: Navigating the Tides of Tomorrow**
 
+![What is this](assets/tidetracker.jpg)
+
 ## **1. The Birth of TideTracker: A Revolution in Information Flow**
 
 Imagine a world where **TideTracker** transcends traditional news outlets. This app harnesses the power of AI to sift through vast amounts of information—news articles, social media posts, academic papers, and public discourse. It doesn't just stop at headlines; it dives deep into the nuances, extracting sentiments, biases, and underlying themes. The app becomes a trusted companion, guiding users through the ever-changing tides of public opinion.
